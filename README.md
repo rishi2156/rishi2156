@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I am Rishi  👋
+<img src="https://media.giphy.com/media/7NIucnGmJii0xVYqbS/giphy.gif" width="80" />
 <!--
 **rishi2156/rishi2156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Movie geek who tries to code.
+Loves to design my own sites.
+
+- 🌱 I’m currently learning Django.
+- ⚡ Fun fact: Chelsea fan, so mostly keeps the colour scheme blue.
